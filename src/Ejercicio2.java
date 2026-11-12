@@ -20,7 +20,6 @@ public class Ejercicio2 {
 
         System.out.print(V+"Quedan "+N+B+diasHastaNochevieja(dia, mes)+RS+V+" dias hasta nochevieja"+RS+"\n");
 
-
     }public static int diasHastaNochevieja(int dia, int mes){
         int dias_restantes=0;
         switch (mes){
